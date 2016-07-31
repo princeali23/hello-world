@@ -1,2 +1,3 @@
 # hello-world
-My first respitory
+
+New to the code world! loving it already :)
